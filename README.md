@@ -288,6 +288,6 @@ Guardian AI was prepared and developed as part of the **HACK IITK 2026 Grand Fin
 
 ### Project Maintainers
 - **Anchit Goel**
-- **Malhar Srivatsav**
 - **Ryan Gupta**
+- **Malhar Srivatsav**
 
