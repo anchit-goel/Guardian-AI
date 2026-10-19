@@ -279,3 +279,15 @@ If you use Guardian AI in your research or applications, please cite the underly
 - **Deep Voice Dataset** (Kaggle birdy654).
 - **OpenAI Whisper & CLIP**, **Salesforce BLIP**, **JaidedAI EasyOCR**.
 - **ResNet50**, **DenseNet-121**, **VGGFace**, and **Light CNN (LCNN)** architectures.
+
+---
+
+## Maintainers & Project Origin
+
+Guardian AI was prepared and developed as part of the **HACK IITK 2026 Grand Finale**.
+
+### Project Maintainers
+- **Anchit Goel**
+- **Malhar Srivatsav**
+- **Ryan Gupta**
+

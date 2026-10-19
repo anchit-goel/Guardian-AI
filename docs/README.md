@@ -72,3 +72,15 @@ Welcome to the Guardian AI documentation. This index organizes all guides, conce
 - [FAQ](project/faq.md): Frequently asked questions.
 - [References](project/references.md): Formal academic and technical citations.
 - [Documentation Audit & Changelog](CHANGELOG-DOCS.md): Comprehensive documentation audit, discrepancies, and migration log.
+
+---
+
+## 👥 Maintainers & Project Origin
+
+Guardian AI was prepared and developed as part of the **HACK IITK 2026 Grand Finale**.
+
+### Project Maintainers
+- **Anchit Goel**
+- **Malhar Srivatsav**
+- **Ryan Gupta**
+

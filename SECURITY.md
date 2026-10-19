@@ -8,7 +8,7 @@
 
 If you discover a security vulnerability or exploit within Guardian AI, please do **not** open a public issue on GitHub. Instead, report it privately to the maintainers:
 
-- **Security Contact**: Anchit Goel (via GitHub Security Advisories or maintainer profile)
+- **Security Contacts**: Anchit Goel, Malhar Srivatsav, Ryan Gupta (via GitHub Security Advisories or maintainer profiles)
 - **Response Timeline**: You will receive an initial response within 48 hours acknowledging receipt of the report.
 - **Coordination**: We will coordinate with you on reproduction steps, patch validation, and responsible disclosure timing.
 

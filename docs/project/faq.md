@@ -13,6 +13,14 @@ Most open-source detectors focus exclusively on one modality (either static faci
 2. Acoustic speech anti-spoofing (Log-Mel CNN + LFCC LCNN).
 3. Cross-modal prompt injection and audio-visual consistency checking (EasyOCR + Whisper + BLIP + CLIP).
 
+### Who built Guardian AI and what is its origin?
+Guardian AI was prepared and developed as part of the **HACK IITK 2026 Grand Finale**.
+
+**Project Maintainers**:
+- **Anchit Goel**
+- **Malhar Srivatsav**
+- **Ryan Gupta**
+
 ### Why are both TensorFlow and PyTorch in `requirements.txt`?
 The visual models were trained and serialized in Keras/TensorFlow (`.h5`), while the audio spoof models, EasyOCR, and Hugging Face Transformers (Whisper, BLIP, CLIP) are built in PyTorch. Both frameworks run side-by-side in process memory.
 
